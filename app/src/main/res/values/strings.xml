@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TO-DO  List App</string>
+    <string name="task_title">TO-DO  List</string>
+    <string name="add_task_title">Add  new task</string>
+    <string name="edit_task_title">Edit task</string>
+    <string name="btn_done">Done</string>
+    <string name="edit_title">Title</string>
+    <string name="edit_desc">Task</string>
+    <string name="edit_pwd">Password</string>
+    <string name="toolbar_pwd">Enter Password</string>
+    <string name="encrypt">Lock task</string>
+    <string name="item_note">View task</string>
+    <string name="empty_notes">Once you add some tasks\nyou will find them here</string>
+
+    <string name="pwd_title">Enter password</string>
+    <string name="error_pwd">Incorrect password</string>
+
+</resources>
